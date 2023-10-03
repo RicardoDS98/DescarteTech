@@ -1,0 +1,89 @@
+[
+    {
+        "nome": "Ecotrade",
+        "lat": -25.63842943918111,
+        "lng": -49.31358039502297,
+        "end":"Avenida Carlos Eduardo Nichele, 782",
+        "bairro":"Pioneiros",
+        "cidade":"Fazenda Rio Grande",
+        "estado":"Paraná",
+        "descricao": "Ecotrade",
+        "url": "https://www.ecotrade.ind.br",
+        "nomeLink": "Site",
+        "tel1":"(41) 3070-5100",
+        "tel2": "(41) 99520-5000"
+    },
+    {
+        "nome": "Hamaya",
+        "lat": -25.635695422187474,
+        "lng": -49.31530249206735,
+        "end":"Rua Manoel Claudino Barbosa, 577",
+        "bairro":"Iguaçu",
+        "cidade":"Fazenda Rio Grande",
+        "estado":"Paraná",
+        "descricao": "Hamaya do Brasil",
+        "url": "https://www.hamaya.com.br",
+        "nomeLink": "Site",
+        "tel1":"(41) 3060-3500",
+        "tel2":"(41) 3060-9200"
+    },
+    {
+        "nome": "Parcs",
+        "lat": -25.501889757499637,
+        "lng": -49.22604607460638,
+        "end":"Rua William Booth, 1681",
+        "bairro":"Boqueirão",
+        "cidade":"Curitiba",
+        "estado":"Paraná",
+        "descricao": "Parcs Resíduos Eletronicos",
+        "url": "https://www.parcs.com.br/",
+        "nomeLink": "Site",
+        "tel1":"(41) 3027-2289",
+        "tel2":"(41) 99125-1745"
+    },
+    {
+        "nome": "Recicla Eletronicos",
+        "lat": -25.506442864928406,
+        "lng": -49.21687649803343,
+        "end":"Rua Irmã Pinheiro Araújo, 98",
+        "bairro":"Boqueirão",
+        "cidade":"Curitiba",
+        "estado":"Paraná",
+        "descricao": "Recicla Eletronicos",
+        "url": "http://www.reciclaeletronicos.com.br/",
+        "nomeLink": "Site",
+        "tel1":"(41) 3089-0232",
+        "tel2":"(41) 99767-2352"
+    },
+    {
+        "nome": "ReciclaTech",
+        "lat": -25.37231630464186,
+        "lng": -49.19121444577454,
+        "end":"Av. Marginal José Anchieta, 740",
+        "bairro":"Guarani",
+        "cidade":"Colombo",
+        "estado":"Paraná",
+        "descricao": "ReciclaTech",
+        "url": "https://reciclatechbrasil.com.br/",
+        "nomeLink": "Site",
+        "tel1":"(41) 3606-9623",
+        "tel2":"(41) 99781-0396"
+    },
+    {
+        "nome": "Sete Ambiental",
+        "lat": -25.4867673694461,
+        "lng": -49.13188799860092,
+        "end":"Rua Sebastiana Sanatana Fraga, 512",
+        "bairro":"Guatupê",
+        "cidade":"São José dos Pinhais",
+        "estado":"Paraná",
+        "descricao": "Sete Ambiental - Coleta e Reciclagem de Lixo Eletrônico.",
+        "url": "https://www.seteambiental.com.br/",
+        "nomeLink": "Site",
+        "tel1":"(41) 3085-8389",
+        "tel2":"(41) 99143-6876"
+    }
+    
+]
+
+

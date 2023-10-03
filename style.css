@@ -1,0 +1,69 @@
+#map {
+    height: 65vh;
+    width: 99%;
+    border-radius: 3px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+#conteudo {
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    justify-content: center;
+
+}
+#header{
+    width: 100%;
+    height: 20vmin;
+    background-image: url(media/logo.png);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+    background-size:50vmin ;
+
+}
+#footer{
+    display: flex;
+    flex-direction: row;
+    width: 99%;
+    height: 50px;
+    background-color: rgb(243, 243, 243);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    margin: auto;
+    margin-top: 10px;
+    border-radius: 3px;
+
+}
+#footer a, a:visited{
+    text-decoration: none;
+    color: black;
+}
+
+#menu{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 99%;
+    height: 50px;
+    background-color: rgb(243, 243, 243);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    margin: auto;
+    margin-bottom: 10px;
+    border-radius: 3px;
+}
+#listaMenu{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    padding: 0;
+    }
+#listaMenu li{
+    margin: auto;
+    padding: 0px 10px 0px 10px;
+}
+#listaMenu a, a:visited{
+    text-decoration: none;
+    color: black;
+
+}
+
